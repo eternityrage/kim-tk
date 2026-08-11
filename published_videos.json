@@ -174,5 +174,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Iconic Moments: Red Carpet Glam, Met Gala Magic & SKIMS Slay (You Have to See This!)",
+            "description": "Okay friends\u2014if you\u2019re as obsessed with Kim Kardashian as I am, this one is going to hit different! From jaw-dropping red carpet looks that make the cameras go wild to Met Gala moments that basically rewrite fashion history, Kim just *always* knows how to serve glamour with confidence. And let\u2019s not forget the SKIMS era\u2014because every time she steps into that \u201cmogul\u201d lane, it\u2019s stylish, strategic, and unstoppable. This video is packed with behind-the-scenes energy, unforgettable interview vibes, and the kind of pop culture impact that turns her into a real icon in real time. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because we\u2019re not slowing down anytime soon. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
