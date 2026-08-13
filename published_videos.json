@@ -254,5 +254,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-bb2cd558-16aa-4d01-b800-78bb27b3c993.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Iconic Glow-Up Moments: Met Gala Magic, Red Carpet Fire & SKIMS Slay!",
+            "description": "If you\u2019re not absolutely obsessed with Kim Kardashian\u2019s talent, style, and total domination of pop culture, what are you even doing? This short video is a full-on celebration of her most legendary red carpet looks, unforgettable interview moments, and the kind of fashion confidence that literally rewrites the rulebook every time she steps out. From Met Gala jaw-dropping glam to behind-the-scenes highlights and SKIMS-worthy boss energy, Kim makes \u201cicon\u201d look effortless\u2014like she was born to stun in every era. I\u2019m living for how she blends Hollywood glamour with real-celebrity charisma and mogul-level hustle, proving she\u2019s not just a star\u2014she\u2019s a whole movement. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
