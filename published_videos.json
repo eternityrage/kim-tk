@@ -270,5 +270,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-383bc5c2-7e5b-47e7-98b9-e083e4cefcfb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian Through the Tears & the Glam: The Moments That Prove Why She\u2019s a True Icon",
+            "description": "There are some celebrities you admire\u2026 and then there\u2019s Kim Kardashian\u2014the kind of pop culture force who can make the whole world feel something with just a look, a sentence, or a heartbeat of confidence. From jaw-dropping red carpet glamour to raw, behind-the-scenes moments where you can feel the hustle, the growth, and the resilience, this short video is a love letter to everything that makes her unforgettable. We\u2019re talking Met Gala magic, high-fashion precision, interview fire, and those unmistakable Kim moves that remind us she\u2019s not just chasing spotlight\u2014she\u2019s shaping it. And of course, we can\u2019t forget the SKIMS energy: the \u201cI\u2019m building something real\u201d glow that turns style into impact. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
