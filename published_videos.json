@@ -430,5 +430,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-383bc5c2-7e5b-47e7-98b9-e083e4cefcfb (1).mp4",
+        "metadata": {
+            "title": "Kim Kardashian Serving Main-Character Energy: Met Gala Magic, Red Carpet Glam & SKIMS Slay!",
+            "description": "Okay bestie, this is your official reminder that Kim Kardashian doesn\u2019t just show up\u2014she completely rewrites the rules of glam every single time! From jaw-dropping red carpet moments that look like pure royalty to behind-the-scenes flashes that make you feel like you\u2019re in her world, this video is basically a highlight reel of why she\u2019s a true pop culture icon. And yes, we\u2019re celebrating all the details\u2014those camera-ready interviews, the fashion choices that start trends overnight, and the SKIMS moments that prove she\u2019s not only stylish but seriously business-minded too. Plus, that Met Gala energy? Icon behavior through and through. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because we\u2019re not done celebrating her yet. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
