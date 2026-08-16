@@ -398,5 +398,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-383bc5c2-7e5b-47e7-98b9-e083e4cefcfb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Glam Red-Carpet Spell: Met Gala Magic, Fierce Fashion & Icon Energy!",
+            "description": "If you\u2019re ready to be served full Hollywood glamour, this short video is your front-row ticket to Kim Kardashian at her absolute most iconic\u2014where every appearance feels like a headline and every outfit is pure fashion drama. From red carpet moments that stop the cameras to Met Gala looks that redefine \u201cwow,\u201d Kim\u2019s style is always bold, polished, and runway-ready, like she personally choreographed the spotlight. And let\u2019s not forget her unstoppable superstar energy\u2014whether she\u2019s owning an interview, serving behind-the-scenes confidence, or representing SKIMS with that effortless \u201cmogul\u201d finesse. I swear, watching Kim move through these looks makes you want to rewatch, pause, and screenshot every second, because there\u2019s always something unforgettable in the details. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
