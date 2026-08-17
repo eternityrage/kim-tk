@@ -462,5 +462,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-cbcf4327-43ab-4cfd-a783-d589879f2bdb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Dazzling Red Carpet Moments: Pure Glam, Fierce Fashion, and Icon Energy \u2728",
+            "description": "Get ready to fall in love all over again\u2014this is Kim Kardashian at her most iconic, serving jaw-dropping red carpet looks, headline-worthy fashion, and that unmistakable Hollywood glow that always turns heads. From sleek silhouettes to high-fashion drama and camera-ready confidence, every second feels like a mini style runway, and I\u2019m seriously obsessed with how fearless she is about making trends feel like her own. We\u2019re celebrating everything that makes her a true pop culture icon\u2014from Met Gala magic to behind-the-scenes moments that remind us she\u2019s not just famous, she\u2019s a brand, a powerhouse, and a style leader. And yes, we have to talk SKIMS energy too\u2014because when Kim puts her touch on fashion and comfort, it becomes a whole movement. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
