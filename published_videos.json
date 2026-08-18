@@ -494,5 +494,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-bb2cd558-16aa-4d01-b800-78bb27b3c993 (1).mp4",
+        "metadata": {
+            "title": "Kim Kardashian Slayed Again\u2014Met Gala Glam, Red Carpet Fire & SKIMS Moments That Had Me Screaming!",
+            "description": "Okay bestie\u2026 if you ever needed proof that Kim Kardashian is the ultimate pop culture icon, this is it. From that jaw-dropping red carpet energy to the kind of interview charisma that makes you feel like you\u2019re right there in the spotlight, Kim truly knows how to command attention with every step. And don\u2019t even get me started on the Met Gala vibe\u2014full-on glamour, dramatic fashion choices, and that signature Kim confidence that\u2019s always serving main character. Plus, we\u2019re diving into the SKIMS magic and the behind-the-scenes moments that show why she\u2019s more than just a reality star\u2014she\u2019s a real fashion mogul with serious vision. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because the obsession is real and we\u2019re only getting louder. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
