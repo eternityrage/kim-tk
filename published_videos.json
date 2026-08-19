@@ -542,5 +542,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "Kim Kardashian: Tears, Triumphs & Timeless Glam \u2014 The Moments That Made Her an Icon",
+            "description": "There are moments that just hit different\u2014and when it comes to Kim Kardashian, every era feels like a powerful chapter of pop culture history. In this video for KimTok Lens, we\u2019re celebrating her unforgettable red carpet looks, the confidence she brings to every interview, and the behind-the-scenes brilliance that shows she\u2019s more than just glamour\u2014she\u2019s a true trendsetting force. From the Met Gala lights to the raw, emotional resilience she\u2019s shared along the way, her journey reminds us that strength can look like style, and style can be a statement of survival and ambition. And of course, we can\u2019t forget the SKIMS magic\u2014those details that turn everyday comfort into luxury and make the whole world pay attention. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
