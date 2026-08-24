@@ -798,5 +798,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-cbcf4327-43ab-4cfd-a783-d589879f2bdb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian Slays Again: Met Gala Glam, Red Carpet Fire & SKIMS-Level Confidence!",
+            "description": "Get ready, KimTok Lens fam\u2014today we\u2019re celebrating Kim Kardashian at her absolute peak: the red carpet looks that stop traffic, the jaw-dropping Met Gala moments that rewrite the fashion rules, and the iconic interviews where she proves she\u2019s more than a reality star\u2014she\u2019s a full-on pop culture force. From her sleek, spotlight-ready style to her behind-the-scenes power moves, every frame is a reminder that Kim knows how to turn a moment into a memory (and a headline). And let\u2019s not forget SKIMS\u2014because when Kim builds a brand, she builds it like an empire: bold, unstoppable, and always runway-worthy. Drop into the comments and tell us your favorite Kim Kardashian moment\u2014was it a legendary Met Gala look, a glam red carpet entrance, or a SKIMS glow-up that made you gasp? Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
