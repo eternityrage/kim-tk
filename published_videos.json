@@ -846,5 +846,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-bb2cd558-16aa-4d01-b800-78bb27b3c993 (1).mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Glam Red Carpet Moments That Prove She\u2019s a Style Icon (Met Gala Energy Only!)",
+            "description": "Get ready, because today we\u2019re serving pure Kim Kardashian glamour\u2014those show-stopping red carpet looks, camera-ready confidence, and iconic fashion choices that make the whole world stop and stare. From Met Gala magic to sleek interview styling and behind-the-scenes glam, Kim never just \u201cshows up\u201d\u2014she turns every moment into a full-on fashion statement. And let\u2019s not forget the SKIMS era, where her influence goes way beyond the spotlight and into real lifestyle magic\u2014because style is her language, and she speaks it fluently. If you love fashion that\u2019s bold, polished, and effortlessly iconic, you\u2019re in the right place\u2014tap in and let\u2019s celebrate Kim\u2019s talent and pop culture reign together! Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
