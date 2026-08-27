@@ -910,5 +910,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Funniest, Fiercest Moments That Prove She\u2019s the Ultimate Pop Culture Icon (From Red Carpets to Met Gala Chaos!)",
+            "description": "Okay, KimTok Lens fam\u2014if you ever needed proof that Kim Kardashian is part fashion icon, part business mogul, and part absolute comedic genius, this short video is your sign! Watch her serve flawless red carpet glamour, slay interview moments with that iconic confidence, and somehow make every \u201cserious\u201d situation turn into a full-on entertaining highlight reel. We\u2019re talking Met Gala magic, unstoppable style, and the kind of behind-the-scenes energy that makes you feel like you\u2019re right there watching her build empires in real time\u2014while looking better than everyone on the guest list. And yes, SKIMS is included because of course she\u2019d turn comfort into a full-on fashion movement. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
