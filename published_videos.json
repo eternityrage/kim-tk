@@ -974,5 +974,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-cbcf4327-43ab-4cfd-a783-d589879f2bdb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian Unleashes Pure Red-Carpet Glam: Met Gala Magic, SKIMS Shine & Icon Energy \ud83d\udc8e\u2728",
+            "description": "Get ready, KimTok Lens fam\u2014because today we\u2019re serving up the kind of Kim Kardashian moments that make you gasp, screenshot, and immediately rewatch. From jaw-dropping red carpet looks that practically glow under the camera lights to behind-the-scenes style flexes, this is Kim at her most iconic\u2014bold, polished, and always one step ahead of the fashion game. We\u2019re talking signature glam, unforgettable interview energy, and the met gala level of drama that turns every entrance into a headline. And let\u2019s not forget her SKIMS empire glow-up\u2014because her style isn\u2019t just a look, it\u2019s a whole lifestyle and a mogul mindset. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan who lives for the glam. Follow KimTok Lens for the best Kim Kardashian content, because the icon never stops\u2014and neither do we. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
