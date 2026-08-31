@@ -1134,5 +1134,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-bb2cd558-16aa-4d01-b800-78bb27b3c993.mp4",
+        "metadata": {
+            "title": "Kim Kardashian at Her Glamor Peak: Red Carpet Royalty, Met Gala Moments & SKIMS Shine | KimTok Lens",
+            "description": "Get ready to fall even more in love\u2014because this short video is a full-on sparkly tribute to Kim Kardashian at her absolute best! From jaw-dropping red carpet entrances that turn every camera toward her, to headline-worthy Met Gala glamour, every second is pure style perfection. We\u2019re celebrating her iconic fashion choices\u2014those silhouette slays, statement accessories, and confident runway energy that scream \u201cfashion mogul\u201d in the most Kim way possible. And of course, we can\u2019t forget the SKIMS magic and the behind-the-scenes moments that prove she\u2019s not just a celebrity\u2014she\u2019s a true icon with real talent and unmatched presence. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because the glamour doesn\u2019t stop here. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
