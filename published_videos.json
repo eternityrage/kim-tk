@@ -1182,5 +1182,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-cbcf4327-43ab-4cfd-a783-d589879f2bdb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian Being Iconic (and Secretly Hilarious) \u2014 Met Gala, Red Carpet Glam, and SKIMS Energy",
+            "description": "You know that feeling when you\u2019re watching Kim Kardashian and suddenly you\u2019re like, \u201cOkay, she\u2019s a fashion genius\u2026 and also a walking comedy sketch\u201d? Because KimTok Lens is serving up the best Kim Kardashian moments\u2014those jaw-dropping red carpet looks, unforgettable Met Gala drama, and the behind-the-scenes magic where she turns every day into a main-character moment. From her sharp interviews to her effortless glam and boss-level SKIMS moves, Kim somehow makes style, confidence, and funny one-liners look completely effortless. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment\u2014Met Gala, a specific red carpet look, an interview quote, or a SKIMS drop\u2014and let\u2019s relive the iconic chaos together. Share this with another Kim Kardashian fan who understands that real glam comes with a side of personality, and follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
