@@ -1454,5 +1454,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-bb2cd558-16aa-4d01-b800-78bb27b3c993 (1).mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Glamorous Red Carpet Sparkles \u2728 From Met Gala Magic to SKIMS Slay Moments",
+            "description": "Step into the spotlight with me because Kim Kardashian doesn\u2019t just show up\u2014she *commands* the room, serving pure glamour with every camera flash. From jaw-dropping red carpet silhouettes to head-turning interview moments that always prove she\u2019s more than a reality star\u2014she\u2019s a true style icon and pop culture force. And let\u2019s not forget the SKIMS energy: sleek, confidence-first looks that make her fashion choices feel like a whole mood board you can\u2019t stop replaying. Whether it\u2019s Met Gala drama, backstage details, or couture-level styling, Kim turns fashion into an unforgettable experience every single time. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because the glamour never ends. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
