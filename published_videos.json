@@ -1470,5 +1470,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-383bc5c2-7e5b-47e7-98b9-e083e4cefcfb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian Slays Every Red Carpet Moment\u2014Met Gala Glam, SKIMS Energy & Iconic Interview Vibes \ud83d\ude2e\u200d\ud83d\udca8\u2728",
+            "description": "Okay bestie\u2014if you\u2019re ready to relive the moments that made Kim Kardashian an absolute pop culture icon, this is your sign! From jaw-dropping red carpet looks that hit like instant dopamine to those fierce Met Gala flashes that always serve main character energy, Kim never misses. And don\u2019t even get me started on the behind-the-scenes style flex\u2014watching her transform every appearance into pure glamour feels like witnessing fashion history in real time. Plus, the SKIMS hype is unreal: it\u2019s not just a brand, it\u2019s confidence, comfort, and that unmistakable Kim magic we all love. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because we\u2019re only here for the iconic glow-ups. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
