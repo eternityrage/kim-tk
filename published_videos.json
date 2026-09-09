@@ -1534,5 +1534,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-383bc5c2-7e5b-47e7-98b9-e083e4cefcfb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian Slays the Spotlight Again\u2014Red Carpet Glam, Met Gala Magic & SKIMS Power Moves!",
+            "description": "Get ready, because this is your front-row ticket to the kind of iconic energy only Kim Kardashian can deliver\u2014glam red carpet moments, headline-worthy interviews, and that unmistakable Kim K confidence that turns every appearance into a full-on event! From showstopping fashion details that have the world watching to behind-the-scenes flashes of the mogul mindset behind SKIMS, Kim is proof that talent + style + hustle equals pure pop culture magic. And let\u2019s not forget the Met Gala vibes\u2014those unforgettable looks that make us gasp, rewind, and scream \u201cICON\u201d every single time! If you love Kim Kardashian, you\u2019re in the right place\u2014because celebrating her brilliance is basically a lifestyle. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
