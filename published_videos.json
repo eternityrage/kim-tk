@@ -1566,5 +1566,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-bb2cd558-16aa-4d01-b800-78bb27b3c993.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Powerful Moments: From Red Carpets to Heartfelt Hustle (KimTok Lens Exclusive)",
+            "description": "From the flash of the red carpet to the quiet determination behind the scenes, Kim Kardashian has a way of turning every headline into a moment we feel\u2014whether she\u2019s serving flawless glamour, owning the spotlight at the met gala, or building an empire with pure hustle and style. In this KimTok Lens short, we\u2019re celebrating the iconic Kim moments that remind us why she\u2019s more than a celebrity\u2014she\u2019s a pop culture icon who keeps evolving, inspiring, and showing up, even when the world is loud. Let\u2019s relive her most unforgettable interviews, fashion transformations, and SKIMS energy that make you go \u201chow does she always look incredible?\u201d\u2014because her confidence is the kind that changes the room. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014where every highlight is a little love letter to her legacy. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
