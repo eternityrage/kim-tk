@@ -1630,5 +1630,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Glow-Up: Met Gala Magic, Red-Carpet Fierceness & SKIMS Power Moments (KimTok Lens Picks!)",
+            "description": "Every time Kim Kardashian steps into the spotlight, it feels like she\u2019s writing a new chapter of confidence\u2014and I\u2019m here for every single page. From jaw-dropping Met Gala glamour and red-carpet looks that turn heads instantly, to behind-the-scenes moments that show just how hard she works, Kim\u2019s journey is pure inspiration. She didn\u2019t just build a brand\u2014she built momentum, proving that bold choices, resilience, and creativity can take you from reality TV stardom to becoming a full-on mogul with real influence. And let\u2019s not forget the heart behind the style: when she embraces her vision with fearless energy, she reminds all of us that growth is possible, no matter where you\u2019re starting from. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
