@@ -2078,5 +2078,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-cbcf4327-43ab-4cfd-a783-d589879f2bdb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian SLAYS the Spotlight: Met Gala Glam, Red Carpet Fire & SKIMS Boss Energy \u2728\ud83d\udd25",
+            "description": "Stop scrolling, because this is your sign to celebrate Kim Kardashian at peak icon mode! From jaw-dropping red carpet looks that hit like pure cinema to unforgettable Met Gala moments dripping with glam and confidence, Kim never misses\u2014she always shows up, owns the room, and makes fashion feel like a headline. In this short, we\u2019re soaking up the magic: her fearless style choices, the electrifying interview energy, the behind-the-scenes hustle, and that SKIMS mogul mindset that proves she\u2019s not just a star\u2014she\u2019s a trend-setting force. If you\u2019ve ever felt inspired by her charisma and \u201cI run the world\u201d presence, this one\u2019s for you! Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
