@@ -2446,5 +2446,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-cbcf4327-43ab-4cfd-a783-d589879f2bdb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Mesmerizing Red Carpet Era: Glam Fits, Met Gala Moments & SKIMS Glow-Up",
+            "description": "Get ready, KimTok Lens fam\u2014today we\u2019re serving pure, sparkling Kim Kardashian magic! From jaw-dropping red carpet looks that steal the spotlight the second she steps out, to camera-ready interview moments where her confidence practically lights up the whole room, this video is a full-on celebration of her iconic style. We\u2019re pulling you through the glam, the glamour, and the main-character energy\u2014from Met Gala fashion that feels like art, to those effortlessly chic ensembles that make every street style moment look like a runway. And yes, we\u2019re also showing love to her world of SKIMS, because that perfect mix of fashion-forward luxury and real-life comfort is exactly why she\u2019s more than a celebrity\u2014she\u2019s a mogul. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because the iconic moments never end. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
