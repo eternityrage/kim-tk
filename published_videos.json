@@ -2590,5 +2590,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "KimTok Lens: Kim Kardashian\u2019s Most Dazzling Red Carpet & Fashion Moments\u2014SKIMS to Met Gala Glam!",
+            "description": "Get ready, Kim Kardashian fans\u2014this one is pure spotlight magic! \u2728 From jaw-dropping red carpet looks to interview-ready confidence, Kim never fails to show up like a full-on fashion event. We\u2019re taking you through her most iconic style chapters\u2014those Met Gala nights, the sleek celebrity glam, the camera-ready attitude, and the behind-the-scenes moments that prove she\u2019s not just famous, she\u2019s a true style mogul. And let\u2019s not forget the power move that is SKIMS\u2014because when Kim blends luxury, comfort, and trend-setting energy, it\u2019s basically a masterclass in modern fashion. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because the glow never stops. #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
