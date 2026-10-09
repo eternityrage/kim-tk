@@ -2958,5 +2958,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Most Glamorous Red Carpet Moments \u2014 SKIMS To Met Gala Magic (KimTok Lens Edition)",
+            "description": "Get ready, bestie\u2014this is your front-row seat to the kind of pure, camera-ready glam that only Kim Kardashian can pull off. From show-stopping red carpet looks that own every flashbulb to sleek, fashion-forward moments that make headlines instantly, Kim\u2019s style is basically a love language. We\u2019re celebrating her talent, her iconic presence, and that unstoppable \u201cmain character\u201d energy\u2014whether she\u2019s strutting with confidence, hitting the Met Gala with couture-level drama, or serving chic behind-the-scenes looks that feel straight out of a celebrity style dream. And of course, we have to talk SKIMS\u2014because Kim doesn\u2019t just follow trends, she builds them into culture. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
