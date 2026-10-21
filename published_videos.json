@@ -3518,5 +3518,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Glow-Up Magic: From Spotlight Moments to SKIMS-Level Icon Energy \u2728 | KimTok Lens",
+            "description": "Get ready to relive the sparkliest, most unforgettable Kim Kardashian moments\u2014because this is the kind of energy that turns a red carpet step into a pop culture headline. From jaw-dropping Met Gala glamour to behind-the-scenes flashes of her unstoppable drive, every clip is a reminder that Kim didn\u2019t just \u201cmake it\u201d\u2014she built a legacy with style, strategy, and real confidence. I love how she transforms fashion into a statement, interviews into unforgettable presence, and SKIMS into something bigger than a brand\u2014proof that ambition can be both glamorous and grounded. Her journey motivates us to keep showing up, leveling up, and believing that our dreams can look incredible while we chase them. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
