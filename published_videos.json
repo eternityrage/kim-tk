@@ -3950,5 +3950,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-383bc5c2-7e5b-47e7-98b9-e083e4cefcfb.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Icon Era: From Red Carpet Glam to SKIMS Boss Energy \ud83c\udf1f | KimTok Lens",
+            "description": "Get ready to relive the moments that made Kim Kardashian a true pop culture icon\u2014where every red carpet step, every candid interview, and every fashion risk turns into pure inspiration. In this video, we\u2019re celebrating Kim\u2019s journey from reality TV spotlight to global mogul energy, highlighting the glam, the hustle, and the confidence that keeps shining through no matter the headline. From show-stopping Met Gala vibes to behind-the-scenes magic and SKIMS magic, it\u2019s all a reminder that style is more than fashion\u2014it\u2019s drive, vision, and self-belief. If you\u2019ve ever needed motivation to chase your goals, Kim\u2019s story is a whole mood: she transforms pressure into power and turns dreams into something real. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! Follow KimTok Lens for the best Kim Kardashian content! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
