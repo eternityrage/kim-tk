@@ -4414,5 +4414,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-efbac6dd-a8de-460c-973c-bea7dc36f48a.mp4",
+        "metadata": {
+            "title": "Kim Kardashian\u2019s Icon Mode: From Red Carpet Glitz to SKIMS Mogul Energy \u2728\ud83d\udc51",
+            "description": "Get ready, KimTok Lens fam\u2014this short video is a celebration of the moments that prove Kim Kardashian isn\u2019t just famous, she\u2019s a full-on pop culture force. From jaw-dropping red carpet looks and unforgettable interview highlights to Met Gala glam and the unstoppable hustle behind SKIMS, every clip is a reminder that she turned vision, confidence, and hard work into a legacy we can all be inspired by. I love how Kim\u2019s journey motivates her fans: it\u2019s not about perfection, it\u2019s about evolving, owning your story, and going after your dreams with style. Whether you\u2019re here for the fashion, the iconic reality TV moments from Keeping Up, or the behind-the-scenes power moves, this is pure Kim Kardashian energy. Like if you love Kim Kardashian! Comment your favorite Kim Kardashian moment! Share this with another Kim Kardashian fan! And follow KimTok Lens for the best Kim Kardashian content\u2014because we don\u2019t just watch her, we celebrate her! #kimkardashian #hollywood #keepingup #metgala #fashion #celebrity #redcarpet #kimkardashianfan #skims #icon #glamour #realitytv #mogul",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
